@@ -1,0 +1,25 @@
+{
+  "name": "tmux-parallel-dev-marketplace",
+  "owner": {
+    "name": "ymmt"
+  },
+  "metadata": {
+    "description": "tmuxを使用した並列組織化開発プラグインのマーケットプレイス",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "tmux-parallel-dev",
+      "source": ".",
+      "description": "tmuxを使用した並列組織化開発プラグイン - マネージャーが複数の開発者を管理し並列開発を実現",
+      "version": "1.0.0",
+      "author": {
+        "name": "ymmt"
+      },
+      "keywords": ["tmux", "parallel", "development", "team", "manager"],
+      "category": "productivity",
+      "commands": "./commands",
+      "strict": false
+    }
+  ]
+}

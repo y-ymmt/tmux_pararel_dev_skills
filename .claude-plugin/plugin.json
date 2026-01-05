@@ -5,5 +5,7 @@
   "author": {
     "name": "ymmt"
   },
-  "keywords": ["tmux", "parallel", "development", "team", "manager"]
+  "keywords": ["tmux", "parallel", "development", "team", "manager"],
+  "commands": "../commands",
+  "skills": "../skills"
 }

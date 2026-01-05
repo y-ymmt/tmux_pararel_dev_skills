@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "tmux-parallel-dev",
-      "source": ".",
+      "source": "./",
       "description": "tmuxを使用した並列組織化開発プラグイン - マネージャーが複数の開発者を管理し並列開発を実現",
       "version": "1.0.0",
       "author": {

@@ -17,9 +17,7 @@
         "name": "ymmt"
       },
       "keywords": ["tmux", "parallel", "development", "team", "manager"],
-      "category": "productivity",
-      "commands": "./commands",
-      "strict": false
+      "category": "productivity"
     }
   ]
 }

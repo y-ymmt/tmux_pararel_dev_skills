@@ -6,6 +6,6 @@
     "name": "ymmt"
   },
   "keywords": ["tmux", "parallel", "development", "team", "manager"],
-  "commands": "../commands",
-  "skills": "../skills"
+  "commands": ["./commands/parallel-dev.md"],
+  "skills": ["./skills/tmux-parallel-dev/SKILL.md"]
 }

@@ -1,0 +1,9 @@
+{
+  "name": "tmux-parallel-dev",
+  "version": "1.0.0",
+  "description": "tmuxを使用した並列組織化開発プラグイン - マネージャーが複数の開発者を管理し並列開発を実現",
+  "author": {
+    "name": "ymmt"
+  },
+  "keywords": ["tmux", "parallel", "development", "team", "manager"]
+}
